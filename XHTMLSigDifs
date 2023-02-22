@@ -1,0 +1,22 @@
+
+/*
+    <!DOCTYPE> is mandatory
+    The xmlns attribute in <html> is mandatory
+    <html>, <head>, <title>, and <body> are
+
+    Elements must always be properly nested
+    Elements must always be closed
+    Elements must always be in lowercase
+    Attribute names must always be in lowercase
+    Attribute values must always be quoted
+    Attribute minimization is forbidden
+*/
+
+    Write a DOCTYPE declaration at the start of the XHTML document.
+
+    Write all XHTML tags and attributes in lower case only.
+    Nest all the tags properly.
+    Quote all the attribute values.
+    Forbid Attribute minimization.
+    Replace the name attribute with the id attribute.
+    Deprecate the language attribute of the script tag.
